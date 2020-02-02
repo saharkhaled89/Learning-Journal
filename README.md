@@ -27,7 +27,7 @@ _You control the display of the document; formatting words as **bold** or **ital
 
   
 # read 02
-##we learn the definition of the text editor is apiece of software that you downloud and install on your computer
+## we learn the definition of the text editor is apiece of software that you downloud and install on your computer
 
 ### the text editor:
 
@@ -35,7 +35,7 @@ _You control the display of the document; formatting words as **bold** or **ital
 
 2. _code editors:note pad vim,emass,nano,visual studio_
 
-####the features can we look for in text editor:
+#### the features can we look for in text editor:
 
 **code completion**
 
@@ -44,4 +44,5 @@ _You control the display of the document; formatting words as **bold** or **ital
 **anice variety of themes**
 
 
+##### _The **command line** is an interesting beast, and if you've not used one before, can be a bit daunting **A command line**, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text_
 
