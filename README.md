@@ -1,6 +1,6 @@
 # Learning-Journal
 # growth mindset people believe that their most basic abilities can be developed through dedication and hard work
-# To keep MYself in a growth mindset
+# To keep myself in a growth mindset
 
 1.Try different learning tactics
 
