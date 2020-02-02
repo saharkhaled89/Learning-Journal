@@ -36,6 +36,12 @@ _You control the display of the document; formatting words as **bold** or **ital
 2. _code editors:note pad vim,emass,nano,visual studio_
 
 ####the features can we look for in text editor:
-*code completion
-*syntux high lighting
-*anice variety of themes
+
+**code completion**
+
+**syntux high lighting**
+
+**anice variety of themes**
+
+
+
