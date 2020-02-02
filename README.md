@@ -23,3 +23,19 @@ _You control the display of the document; formatting words as **bold** or **ital
 **SAHAR KHALID ABU SNAINEH**
 **IAM achemical ENGINEER**
 [github](https://github.com/saharkhaled89)
+
+
+  
+# read 02
+##we learn the definition of the text editor is apiece of software that you downloud and install on your computer
+
+### the text editor:
+
+** 1.word processors: microsoft word,google does,apple pages **
+
+2. _code editors:note pad vim,emass,nano,visual studio_
+
+####the features can we look for in text editor:
+*code completion
+*syntux high lighting
+*anice variety of themes
