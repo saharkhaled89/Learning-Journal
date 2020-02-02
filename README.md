@@ -4,7 +4,7 @@
 1.Try different learning tactics
 2.Replace the word **failing** with the word **learning**
 3._View challenges as opportunities_
-4. _Provide **regular opportunities** for reflection_
+4._Provide **regular opportunities** for reflection_
 
 *Markdown is a way to style text on the web*
 _You control the display of the document; formatting words as **bold** or **italic**_
