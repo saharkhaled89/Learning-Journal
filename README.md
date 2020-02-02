@@ -51,9 +51,13 @@ _You control the display of the document; formatting words as **bold** or **ital
 **The example of terminal**
 
 1.ls -l /home/ryan
+
 2.total 3
+
 3.drwxr-xr-x  2 ryan users 4096 Mar 23 13:34 bin
+
 4.drwxr-xr-x 18 ryan users 4096 Feb 17 09:12 Documents
+
 5.drwxr-xr-x  2 ryan users 4096 May 05 17:25 public_html
 
 _**Line 1** presents us with a prompt ( user@bash ). After that we entered a command ( ls ). Typically a command is always the first thing you type. After that we have what are referred to as command line arguments ( -l /home/ryan ). Important to note, these are separated by spaces (there must be a space between the command and the first command line argument also). The first command line argument ( -l ) is also referred to as an option. Options are typically used to modify the behaviour of the command. Options are usually listed before other arguments and typically start with a dash ( - )_
