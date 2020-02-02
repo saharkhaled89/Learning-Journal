@@ -61,7 +61,9 @@ _**Line 1** presents us with a prompt ( user@bash ). After that we entered a com
 _**Lines 2 - 5** are output from running the command. Most commands produce output and it will be listed straight under the issuing of the command. Other commands just perform their task and don't display any information unless there was an error_
 
 [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
 [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
 [More About Files!](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 
