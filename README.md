@@ -46,7 +46,7 @@ _You control the display of the document; formatting words as **bold** or **ital
 
 ##### _The **command line** is an interesting beast, and if you've not used one before, can be a bit daunting **A command line**, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text_
 
-![terminal] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUSubq7Qie1FN8lzac5euoPEBQ_v41QizH3PyD_LtQc9O9gakyw&s)
+![terminal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRUSubq7Qie1FN8lzac5euoPEBQ_v41QizH3PyD_LtQc9O9gakyw&s)
 
 **The example of terminal**
 
