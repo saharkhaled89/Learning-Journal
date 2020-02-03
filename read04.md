@@ -35,9 +35,9 @@ How large is the budget they control?
 
 **why people are coming to your website, there are two basic categories of questions you can ask:**
 
-1. **The first attempts to discover the underlying motivations for why visitors come to the site,Key motivationsAre they looking for 
+1. The first attempts to discover the underlying motivations for why visitors come to the site,Key motivationsAre they looking for 
 general, entertainment or do they need to achieve a specific goal? If there is a specific goal, is it a personal or professional
-one?Do they see spending time on this activity as essential or a luxury**
+one?Do they see spending time on this activity as essential or a luxury
 
 2. **sPeciFic goals Do they want general information / research (such as background on a topic / company), or are they after something specific
 (such as a particular fact or information on a product)?Are they already familiar with the service or product that you offer or
@@ -65,11 +65,11 @@ do they need to be introduced to it?**
 
 2.**You can add comments to your code between the   X <!-- and --> markers. The  X id and class attributes allow you to identify particular elements.**
 
-3. *The  X <div> and <span> elements allow you to group block-level and inline elements together.*
+3. **The  X <div> and <span> elements allow you to group block-level and inline elements together.**
  
 4. **<iframes> X cut windows into your web pages through which other pages can be displayed.**
  
-5. *The  X <meta> tag allows you to supply all kinds of information about your web page.*
+5. **The  X <meta> tag allows you to supply all kinds of information about your web page.**
 
 6.**Escape characters are used to include special  X characters in your pages such as <, >, and xhtMl 1.0 **
 
