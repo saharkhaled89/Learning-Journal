@@ -56,12 +56,12 @@ do they need to be introduced to it?**
  **HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already**
  
  **The different versions of HTML and how to indicate which version you are using example htMl 4,htMl1.0
-  add comments to your code doCtYpEs and add coment If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
-<!-- comment goes here -->**
+  add comments to your code doCtYpEs and add coment If you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:**
+<!-- comment goes here -->
 
 ###### suMMarY Extra Markup
  
-1.*DOCTYPES X tell browsers which version of HTML you are using.*
+1.*DOCTYPES X tell browsers which version of HTML you are using*
 
 2.**You can add comments to your code between the   X <!-- and --> markers. The  X id and class attributes allow you to identify particular elements.**
 
@@ -71,7 +71,7 @@ do they need to be introduced to it?**
  
 5. **The  X <meta> tag allows you to supply all kinds of information about your web page.**
 
-6.**Escape characters are used to include special  X characters in your pages such as <, >, and xhtMl 1.0 **
+6.**Escape characters are used to include special  X characters in your pages such as <, >, and xhtMl 1.0**
 
 
 
