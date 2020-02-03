@@ -11,20 +11,20 @@
 
 4. **git push [remote-name][branch-name](To push your changes “upstream” for sharing,**
 
-5. **git remote rename(To rename a remote’s short name)
+5. **git remote rename(To rename a remote’s short name)**
  
  
-### **for all order above we use the git program aversion control system that lets multiple developer work on same cod and you have ahistory 
+### For all order above we use the git program aversion control system that lets multiple developer work on same cod and you have ahistory 
 changes to your file**
 
 
 #### **why we use git?**
 
-*To take snapshot of your code at point time
+1.To take snapshot of your code at point time
 
-*To keep history
+2.To keep history
 
-*git lable ,called head 
+3.git lable ,called head 
 
 **FOR MORE INFORMATION**
 
