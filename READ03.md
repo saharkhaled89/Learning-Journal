@@ -15,16 +15,16 @@
  
  
 ### For all order above we use the git program aversion control system that lets multiple developer work on same cod and you have ahistory 
-changes to your file**
+changes to your file
 
 
 #### **why we use git?**
 
-1.To take snapshot of your code at point time
+1.*To take snapshot of your code at point time*
 
-2.To keep history
+2.*To keep history*
 
-3.git lable ,called head 
+3.*git lable ,called head* 
 
 **FOR MORE INFORMATION**
 
