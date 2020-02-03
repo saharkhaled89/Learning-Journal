@@ -63,7 +63,7 @@ do they need to be introduced to it?**
  
 1.*DOCTYPES X tell browsers which version of HTML you are using*
 
-2.**You can add comments to your code between the   X <!-- and --> markers. The  X id and class attributes allow you to identify particular elements.**
+2.**You can add comments to your code between theX <!-- and --> markers.TheX id and class attributes allow you to identify particular elements.**
 
 3. **The  X <div> and <span> elements allow you to group block-level and inline elements together.**
  
