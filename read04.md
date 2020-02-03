@@ -72,6 +72,7 @@ do they need to be introduced to it?**
 5. **The  X <meta> tag allows you to supply all kinds of information about your web page.**
 
 6.**Escape characters are used to include special  X characters in your pages such as <, >, and xhtMl 1.0**
+7
 
 
 
