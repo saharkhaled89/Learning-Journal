@@ -1,4 +1,4 @@
-#**CSS allows you to create rules that specify how the content of an element should appear. For example, you can specify that the background
+# **CSS allows you to create rules that specify how the content of an element should appear. For example, you can specify that the background
 of the page is cream, all paragraphs should appear in gray using the Arial typeface, or that all level one headings should be in a blue, 
 italic, Times typefac**
 
@@ -39,7 +39,7 @@ rel="stylesheet" />
 </body>
 </html> 
 
-####** uSIng InternaL css **
+#### ** uSIng InternaL css **
 
 **<style>**
 You can also include CSS rules within an HTML page by placing them inside a <style> element, which usually sits inside the <head> element of the page. 
@@ -52,8 +52,8 @@ appears, you only need to edit the one CSS file and all of your pages will be up
 
 ##### **understanding Color**
 
-Every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want, you can use 
-a color picker.
+**Every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want, you can use 
+a color picker**
 
 . Color not only brings your site to life, but also helpsconvey the mood and evokes reactions.
 . There are three ways to specify colors in CSS: RGB values, hex codes, and color names.
