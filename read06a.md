@@ -22,23 +22,8 @@
 then we open live server and see the change in page 
 
 
-var today = new Date ();
-var hourNow =today.getHours();
-var greeting;
+ the JS Code that change under condition when hour > 18 the change will be Good evening 
 
-if (hourNow > 18) {greeting = 'Good evening!';}
-    
-   else if (hourNow > 12){greeting='Good afternoon!';
-    }
-else if (hourNow>0)
-
-{greeting='Good morning!';}
-
-else {greeting='Welcome!';}
-
-document.write ('<h3>'+ greeting +'</h3>');
-
-that change under condition when hour > 18 the change will be Good evening 
 when hour >12 change will be Good afternoon
 when hour > 0 the change will be good morning
 and welcome greeting always
