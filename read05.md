@@ -1,4 +1,4 @@
-# **CSS allows you to create rules that specify how the content of an element should appear. For example, you can specify that the background
+# CSS allows you to create rules that specify how the content of an element should appear. For example, you can specify that the background
 of the page is cream, all paragraphs should appear in gray using the Arial typeface, or that all level one headings should be in a blue, 
 italic, Times typefac**
 
@@ -33,7 +33,7 @@ linking to a CSS file
 rel="stylesheet" /> 
 </head>
 <body> 
-<h1>Potatoes</h1> 
+<h1></h1> 
 <p>
 </p>
 </body>
