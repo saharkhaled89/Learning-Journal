@@ -1,6 +1,6 @@
 # CSS allows you to create rules that specify how the content of an element should appear. For example, you can specify that the background
 of the page is cream, all paragraphs should appear in gray using the Arial typeface, or that all level one headings should be in a blue, 
-italic, Times typefac**
+italic, Times typefac
 
 ## learned how to write a CSS
 
@@ -39,7 +39,7 @@ rel="stylesheet" />
 </body>
 </html> 
 
-#### ** uSIng InternaL css **
+#### uSIng InternaL css 
 
 **<style>**
 You can also include CSS rules within an HTML page by placing them inside a <style> element, which usually sits inside the <head> element of the page. 
@@ -56,11 +56,17 @@ appears, you only need to edit the one CSS file and all of your pages will be up
 a color picker**
 
 . Color not only brings your site to life, but also helpsconvey the mood and evokes reactions.
+
 . There are three ways to specify colors in CSS: RGB values, hex codes, and color names.
+
 . Color pickers can help you find the color you want. 
+
 . It is important to ensure that there is enough contrast between any text and the background color
+
 (otherwise people will not be able to read your content).
+
 . CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
+
 . CSS3 also allows you to specify colors as HSL values, with an optional opacity value.
    It is known as HSLA.
 
