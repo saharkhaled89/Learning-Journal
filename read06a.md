@@ -25,7 +25,9 @@ then we open live server and see the change in page
  the JS Code that change under condition when hour > 18 the change will be Good evening 
 
 when hour >12 change will be Good afternoon
+
 when hour > 0 the change will be good morning
+
 and welcome greeting always
 
 
