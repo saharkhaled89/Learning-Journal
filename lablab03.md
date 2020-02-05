@@ -1,11 +1,15 @@
-# github and git
 
-1.**Cloning your repo You do this step in order to get your repo from your cloud into your machine**
+# introduction
 
-2. **Firstly you get the the link to your repo from the dropdown button saying “Clone or Download”**
+In the learning journal I write all the things I studied and read it in the course. I write all things in .md file you can check it.
 
-3. **using the code >git clone ‘The link to your repo between the qoutations’**
 
-4. **Change your location to where your clone is**
+ [text editor] (https://saharkhaled89.github.io/Learning-Journal/)
+ 
+ [GIT] (https://saharkhaled89.github.io/Learning-Journal/read03)
+ 
+ [HTML] (https://saharkhaled89.github.io/Learning-Journal/read04)
+ 
+ [css] (https://saharkhaled89.github.io/Learning-Journal/read05)
 
-5. **Now you can use the codes git add, git push and git commit to commit and push your changes.**
+
